@@ -1,0 +1,8 @@
+C:\Users\joel k\repos\SyntaxAndSyntaxSugarExercise\SyntaxAndSyntaxSugarExercise\bin\Debug\SyntaxAndSyntaxSugarExercise.exe.config
+C:\Users\joel k\repos\SyntaxAndSyntaxSugarExercise\SyntaxAndSyntaxSugarExercise\bin\Debug\SyntaxAndSyntaxSugarExercise.exe
+C:\Users\joel k\repos\SyntaxAndSyntaxSugarExercise\SyntaxAndSyntaxSugarExercise\bin\Debug\SyntaxAndSyntaxSugarExercise.pdb
+C:\Users\joel k\repos\SyntaxAndSyntaxSugarExercise\SyntaxAndSyntaxSugarExercise\obj\Debug\SyntaxAndSyntaxSugarExercise.csproj.AssemblyReference.cache
+C:\Users\joel k\repos\SyntaxAndSyntaxSugarExercise\SyntaxAndSyntaxSugarExercise\obj\Debug\SyntaxAndSyntaxSugarExercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\joel k\repos\SyntaxAndSyntaxSugarExercise\SyntaxAndSyntaxSugarExercise\obj\Debug\SyntaxAndSyntaxSugarExercise.csproj.CoreCompileInputs.cache
+C:\Users\joel k\repos\SyntaxAndSyntaxSugarExercise\SyntaxAndSyntaxSugarExercise\obj\Debug\SyntaxAndSyntaxSugarExercise.exe
+C:\Users\joel k\repos\SyntaxAndSyntaxSugarExercise\SyntaxAndSyntaxSugarExercise\obj\Debug\SyntaxAndSyntaxSugarExercise.pdb
