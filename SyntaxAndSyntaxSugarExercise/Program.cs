@@ -15,7 +15,6 @@ namespace SyntaxAndSyntaxSugarExercise
             var myDouble = 19.99;
 
             Console.WriteLine($"Hello, my name is {firstName}. I am {myAge}. Every week I pay {myDouble} for groceries.");
-            Console.ReadLine();
 
             Console.WriteLine("Welcome to which number is bigger...");
             Console.WriteLine("enter TWO numbers...");
@@ -25,17 +24,25 @@ namespace SyntaxAndSyntaxSugarExercise
             var variableTwo = int.Parse(userInputTwo);
             var result = (variableOne > variableTwo) ? True() : False();
             Console.WriteLine(result);
+            Exercise2();
             Console.ReadLine();
         }
         static string True()
         {
-            var largerNumber = $"First number is larger.";
+            var largerNumber = "First number is larger.";
             return largerNumber;
         }
         static string False()
         {
             var smallerNumber = "First number is smaller.";
             return smallerNumber;
+        }
+        static void Exercise2()
+        {
+            Console.WriteLine("please enter a number");
+            var answer = int.Parse(Console.ReadLine());
+            var response = (answer > 9 ? answer + " is less than nine" : answer + " is greater than or equal to nine");
+            Console.WriteLine(response);
         }
     }
 }
